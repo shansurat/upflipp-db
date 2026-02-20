@@ -14,7 +14,7 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/shansurat/upflipp-db
 
 ##########
 # SITE SETTINGS
@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: UP FLIPP Database
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: "UP Future Library and Information Professional of the Philippines Database"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "UP FLIPP Database is a comprehensive collection of data related to the UP Future Library and Information Professional of the Philippines."
+description: "An internal, comprehensive database for the UP Future Library and Information Professional of the Philippines (UP FLIPP)."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Kristian Mark Surat
 
@@ -34,7 +34,7 @@ author: Kristian Mark Surat
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
+metadata: upflipp-metadata
 
 ##########
 # Site/Organization Branding 
